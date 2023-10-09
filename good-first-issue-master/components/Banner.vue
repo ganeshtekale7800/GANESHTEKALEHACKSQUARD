@@ -9,7 +9,7 @@
       </span>
     </span>
   </header>
-</template>
+</template>    
 
 <script>
 const BANNER_ACTIVE_TIME = 2000
